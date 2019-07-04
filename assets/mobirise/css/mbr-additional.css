@@ -2245,89 +2245,56 @@ body {
   text-align: center;
   color: #000000;
 }
-.cid-rvdB9jhp5q {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-rvdEYlNr6A {
+  padding-top: 0px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rvdB9jhp5q .card {
-  -webkit-align-items: center;
-  align-items: center;
-}
-.cid-rvdB9jhp5q .card-box {
+.cid-rvdEYlNr6A img {
   width: 100%;
 }
-.cid-rvdB9jhp5q .card-img {
-  padding: 1rem;
-  border: 2px solid #e9e9e9;
-  border-radius: 100%;
-  height: 120px;
-  width: 120px;
-  -webkit-align-items: center;
-  align-items: center;
+.cid-rvdEYlNr6A p {
+  line-height: 1.6;
+}
+.cid-rvdEYlNr6A .content {
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
   -webkit-justify-content: center;
   justify-content: center;
-  display: flex;
 }
-.cid-rvdB9jhp5q .card-img span {
-  color: #0a1c44;
-  font-size: 5rem;
+.cid-rvdEYlNr6A .mbr-section-title {
+  text-align: left;
+  color: #000000;
 }
-.cid-rvdB9jhp5q .mbr-text {
+.cid-rvdEYlNr6A .mbr-text,
+.cid-rvdEYlNr6A .mbr-section-btn {
   color: #656565;
+  text-align: left;
 }
-.cid-rvdB9jhp5q p {
-  margin: 0;
-}
-@media (max-width: 576px) {
-  .cid-rvdB9jhp5q .card {
-    margin-bottom: 2rem;
-  }
-}
-.cid-rvdB9jhp5q .card-title,
-.cid-rvdB9jhp5q .card-img {
-  color: #0087ab;
-  text-align: center;
-}
-.cid-rvdB9jhp5q .mbr-section-title {
-  text-align: center;
-}
-.cid-rvdB9jhp5q .mbr-section-sub-title {
-  text-align: center;
-  color: #9e9e9e;
-}
-.cid-rvdB9jhp5q .line-wrap {
+.cid-rvdEYlNr6A .line-wrap {
   display: inline-block;
   width: 100%;
 }
-.cid-rvdB9jhp5q .line {
+.cid-rvdEYlNr6A .line {
   display: inline-block;
   width: 80px;
   height: 4px;
   background-color: #0a1c44;
   margin-top: 0.5rem;
-  margin-bottom: 2rem;
-}
-.cid-rvdB9jhp5q .line-wrap2 {
-  display: inline-block;
-  width: 100%;
-}
-.cid-rvdB9jhp5q .line2 {
-  display: inline-block;
-  width: 30px;
-  height: 2px;
-  background-color: #e9e9e9;
-  margin-top: 1rem;
   margin-bottom: 1rem;
 }
-.cid-rvdB9jhp5q .mbr-section-title,
-.cid-rvdB9jhp5q .line-wrap {
+.cid-rvdEYlNr6A .mbr-section-title .line-wrap {
   text-align: center;
 }
-.cid-rvdB9jhp5q .mbr-text,
-.cid-rvdB9jhp5q .line-wrap2 {
-  text-align: center;
-  color: #000000;
+.cid-rvdEYlNr6A .mbr-section-title,
+.cid-rvdEYlNr6A .line-wrap {
+  text-align: left;
+}
+@media (max-width: 992px) {
+  .cid-rvdEYlNr6A .mbr-section-btn {
+    margin-bottom: 3rem;
+  }
 }
 .cid-rvdklLu2be {
   padding-top: 0px;
